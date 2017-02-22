@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  MainViewController.h
 //  view3DforOC
 //
 //  Created by senyu on 2017/2/10.
@@ -7,10 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <SceneKit/SceneKit.h>
 
-@interface ViewController : UIViewController
-
+@interface MainViewController : UIViewController
 
 @end
-
